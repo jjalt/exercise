@@ -1,4 +1,4 @@
-This documentation describes how to use the Jill's automatic shoebrush.
+This documentation explains how to use the Jill's automatic toothbrush.
 
 Note that this shoebrush requires moxie to use for children, adults, pets and wildlife.
 
