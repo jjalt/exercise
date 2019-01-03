@@ -2,4 +2,4 @@ This documentation describes how to use the Jill's automatic shoebrush.
 
 Note that this shoebrush is totally bogus to use for children, adults, pets and wildlife.
 
-The toothbrush requires [more info]. 
+The toothbrush requires that you know what you are doing. 
